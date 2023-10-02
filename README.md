@@ -10,3 +10,4 @@ bg: international student, female, junior, no related internship
 - Work hard do not be lazy
 - There are always tons of resource online and from your friends and network
   - do not panic or be shy
+- Do not get discouraged, everytime takes time and you can make it!
