@@ -6,4 +6,4 @@
 
 ### prepare  
 - There are always tons of resource online and from your friends and network
-- do not panit or be shy
+- do not panic or be shy
